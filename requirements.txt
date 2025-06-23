@@ -1,0 +1,21 @@
+# ESP32 Face Tracking System - Python Dependencies
+
+# Computer Vision and Image Processing
+opencv-python==4.8.1.78
+cvzone==1.6.1
+numpy==1.24.3
+
+# Web Requests and HTTP Communication
+requests==2.31.0
+
+# Serial Communication
+pyserial==3.5
+
+# Optional: For enhanced performance and additional features
+# mediapipe==0.10.7        # Alternative face detection
+# flask==2.3.3             # If you want to create a web interface
+# matplotlib==3.7.2        # For plotting and visualization
+
+# Development and Testing
+# pytest==7.4.2           # For unit testing
+# black==23.7.0            # Code formatting 
