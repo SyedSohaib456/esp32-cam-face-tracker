@@ -5,8 +5,8 @@
 #include <ArduinoJson.h>
 
 // WiFi credentials - CHANGE THESE!
-const char* ssid = "destroy.bat";        // ← Put your WiFi name here
-const char* password = "09449467zebi"; // ← Put your WiFi password here
+const char* ssid = "your_wifi_name";        // ← Put your WiFi name here
+const char* password = "your_wifi_password"; // ← Put your WiFi password here
 
 #define SERVO_X_PIN 12
 #define SERVO_Y_PIN 13
